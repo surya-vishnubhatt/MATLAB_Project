@@ -1,1 +1,1 @@
-A UC Davis Mapping Project  
+A group project for ENG 6 for a UC Davis Mapping Project  
